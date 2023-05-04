@@ -1,7 +1,7 @@
 # Sebastian Gillis
 
 - 🔭 I’m currently working on my Portfolio
-- 🌱 I’m currently learning Bun js
+- 🌱 I’m currently learning Bun js, and Java
 - 💬 Ask me about Web Development
 - ⚡ Fun fact: I started learning to code in late april 2022
 
