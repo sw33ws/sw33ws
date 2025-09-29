@@ -1,4 +1,4 @@
-# Sebastian Gillis
+# sw33ws
 
 - 🔭 I’m currently working on my Portfolio
 - 🌱 I’m currently learning Bun js, and Java
