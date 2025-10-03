@@ -51,8 +51,6 @@
 go here for a guide on how to add stats https://github.com/anuraghazra/github-readme-stats
 -->
 
-<!--
 ![sw33ws's GitHub stats](https://github-readme-stats.vercel.app/api?username=sw33ws&show_icons=true&theme=transparent)
--->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sw33ws&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
